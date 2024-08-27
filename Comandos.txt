@@ -19,3 +19,5 @@ npx shadcn-ui@latest add input
 npx shadcn-ui@latest add dropdown-menu
 
 npm install recharts
+
+npx shadcn-ui@latest add chart
