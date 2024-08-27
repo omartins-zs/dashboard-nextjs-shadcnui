@@ -1,0 +1,29 @@
+
+Auxiliares
+
+NextJS: https://nextjs.org/docs/getting-started/installation
+Tailwind: https://tailwindcss.com/
+Recharts: https://recharts.org/en-US/
+shadcn UI: https://ui.shadcn.com/
+
+Extensão do prettier que ela ordena as classes do tailwind
+
+https://www.npmjs.com/package/prettier-plugin-tailwindcss
+
+Configuração :
+
+Cria um arquivo .prettierrc na raiz do projeto
+
+Adicionar esse codigo:
+
+{
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
+
+Reiniciar o VS CODE
+
+--------------
+
+Extensão que simula um mobile:
+
+https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk?hl=pt-BR
