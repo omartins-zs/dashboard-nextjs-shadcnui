@@ -5,6 +5,7 @@ NextJS: https://nextjs.org/docs/getting-started/installation
 Tailwind: https://tailwindcss.com/
 Recharts: https://recharts.org/en-US/
 shadcn UI: https://ui.shadcn.com/
+Lucide (React Icons): https://lucide.dev/icons/
 
 Extensão do prettier que ela ordena as classes do tailwind
 
