@@ -1,0 +1,19 @@
+npx create-next-app@latest dashboard-nextjs-shadcnui
+
+npm run dev
+
+npx shadcn-ui@latest init
+
+npx shadcn-ui@latest add button
+
+npx shadcn-ui@latest add card
+
+npx shadcn-ui@latest add avatar
+
+npx shadcn-ui@latest add sheet
+
+npx shadcn-ui@latest add tooltip
+
+npx shadcn-ui@latest add input
+
+npx shadcn-ui@latest add dropdown-menu
